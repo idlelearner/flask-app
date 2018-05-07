@@ -1,5 +1,6 @@
 # flask-app
-my flask experiments
+My flask experiments
+--------------------
 
 To run this app, make sure you have virtualenv installed
 
