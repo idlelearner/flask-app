@@ -1,0 +1,5 @@
+flask
+WTForms
+flask_sqlalchemy
+flask-migrate
+flask-login
