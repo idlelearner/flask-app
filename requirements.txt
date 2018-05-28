@@ -6,3 +6,8 @@ flask-login
 flask-mail
 pyjwt
 flask-bootstrap
+flask-moment
+flask-babel
+guess_language
+requests
+elasticsearch
